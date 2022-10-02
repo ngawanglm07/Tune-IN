@@ -1,0 +1,76 @@
+body{
+    background-image:url("./images/aesthetic.jpeg");
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+p{
+    color: #DBEDF3;
+}
+
+
+.drum{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    border: 2px solid rgb(51, 145, 51);
+    margin:2px;
+    border-radius: 65px;
+    
+}
+
+.w{
+    background-image: url("./images/crash.png");
+    background-size:cover;
+}
+
+
+.a{
+    background-image: url("./images/kick.png");
+    background-size: cover;
+}
+
+.s{
+    background-image:url("./images/snare.png");
+    background-size: cover;
+}
+
+.d{
+   background-image: url("./images/tom1.png");
+   background-size: cover;
+}
+.j{
+    background-image: url("./images/tom2.png");
+    background-size: cover;
+ }
+
+ .k{
+    background-image: url("./images/tom3.png");
+    background-size: cover;
+ }
+ 
+ .l{
+    background-image: url("./images/tom4.png");
+    background-size: cover;
+ }
+ 
+
+
+ .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+
+  footer{
+    color: rgb(249, 255, 249);
+    font-family: sans-serif;
+    margin: 10%;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
